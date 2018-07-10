@@ -1,6 +1,6 @@
 # Writing-editing Network: Paper Abstract Writing through Editing Mechanism
 
-[Paper Abstract Writing through Editing Mechanism](https://arxiv.org/pdf/1805.06064.pdf)
+[Paper Abstract Writing through Editing Mechanism](http://aclweb.org/anthology/P18-2042)
 
 Accpeted by ACL 2018
 
@@ -44,16 +44,20 @@ python main.py --cuda --mode 1
 
 ## Citation
 ```
-@InProceedings{Writ_edit,
-  author ="Wang, Qingyun
-            and Zhou, Zhihao
-            and Huang, Lifu
-            and Whitehead, Spencer
-            and Zhang, Boliang
-            and Ji, Heng
-            and Knight, Kevin",
+@InProceedings{P18-2042,
+  author = 	"Wang, Qingyun
+		and Zhou, Zhihao
+		and Huang, Lifu
+		and Whitehead, Spencer
+		and Zhang, Boliang
+		and Ji, Heng
+		and Knight, Kevin",
   title = 	"Paper Abstract Writing through Editing Mechanism",
-  booktitle = 	"Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics",
-  year = 	"2018"
+  booktitle = 	"Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers)",
+  year = 	"2018",
+  publisher = 	"Association for Computational Linguistics",
+  pages = 	"260--265",
+  location = 	"Melbourne, Australia",
+  url = 	"http://aclweb.org/anthology/P18-2042"
 }
 ```
