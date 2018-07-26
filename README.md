@@ -1,7 +1,8 @@
 # Writing-editing Network: Paper Abstract Writing through Editing Mechanism
 
 [Paper Abstract Writing through Editing Mechanism](http://aclweb.org/anthology/P18-2042)
-[[Poster]](https://eaglew.github.io/files/Paper_abstract_generation.pdf) [[Fake Handbook*]](https://eaglew.github.io/files/handbook.pdf) *Fake abstracts for the main conference
+
+[[Poster]](https://eaglew.github.io/files/Paper_abstract_generation.pdf)[[Fake Handbook*]](https://eaglew.github.io/files/handbook.pdf) *Fake abstracts for the main conference
 Accpeted by ACL 2018
 
 Table of Contents
